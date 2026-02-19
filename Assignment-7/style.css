@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #f2f2f2;
+    padding: 10px 20px;
+}
+
+/* Hero Section */
+.hero {
+    background-color: #DF170F;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px;
+}
+
+.hero-text {
+    width: 50%;
+}
+
+.hero-text h1 {
+    font-size: 40px;
+}
+
+.hero-image img {
+    width: 200px;
+    background-color: #DF170F;
+    border-radius: 50%;
+    margin-right: 150px;
+}
+
+/* Cards Section */
+.cards {
+    display: flex;
+}
+
+.card {
+    flex: 1;
+    background-color: #8B0000;
+    color: white;
+    padding: 30px;
+    border-right: 2px solid red;
+}
+
+.card:last-child {
+    border-right: none;
+}
