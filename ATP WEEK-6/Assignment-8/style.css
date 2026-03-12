@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Full screen layout */
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* ================= HERO SECTION ================= */
+
+.hero{
+    flex: 1;
+    background-image: url("../Assets/mountain2.jpg");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    color: white;
+    height: 100%;
+}
+
+/* Center hero text */
+.hero-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.hero-text h1{
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+.hero-text button{
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 12px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.hero-text button:hover{
+    background-color: darkorange;
+}
+
+/* ================= OUTDOOR SECTION ================= */
+
+.outdoor{
+    flex: 1;
+    background-color: #f4f4f4;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px 80px;
+}
+
+/* Left Text */
+.outdoor .text{
+    width: 45%;
+}
+
+.outdoor .text h1{
+    font-size: 40px;
+    color: #1e3a8a;
+    margin-bottom: 20px;
+}
+
+.outdoor .text p{
+    line-height: 1.6;
+    font-size: 16px;
+}
+
+/* Right Image */
+.outdoor .image{
+    width: 50%;
+}
+
+.outdoor .image img{
+    width: 100%;
+    height: 300px;   /* Bigger image */
+    object-fit: cover;
+}
