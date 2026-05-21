@@ -1,0 +1,83 @@
+### read all users
+
+GET http://localhost:4000/user-api/users
+
+
+###create user
+
+POST http://localhost:4000/user-api/users
+Content-Type: application/json
+
+{
+    "username":"sudha",
+    "password":"sudha",
+    "age":20
+}
+
+
+###read user by id
+
+GET http://localhost:4000/user-api/users/698197b6e84f67ec3c51bf35
+
+###update the user 
+
+PUT http://localhost:4000/user-api/users/698197b6e84f67ec3c51bf35
+Content-Type: application/json
+
+{
+    "username":"Birzuu",
+    "password":"@12345",
+    "age":20
+}
+
+###delete user by id
+
+DELETE http://127.0.0.1:4000/user-api/users/698197b6e84f67ec3c51bf35
+
+
+### read all products
+
+GET http://127.0.0.1:4000/product-api/products
+
+###create product
+
+POST http://127.0.0.1:4000/product-api/products
+Content-Type: application/json
+
+{
+    "pid":200,
+    "productName":"watch",
+    "price":10000
+}
+
+###update the product
+
+PUT http://localhost:4000/product-api/products/698032931222a1c462654efd
+Content-Type: application/json
+
+{
+    "pid":100,
+    "productName":"laptop",
+    "price":2000
+}
+
+###read product by id
+GET http://localhost:4000/product-api/products/698032931222a1c462654efd
+
+
+###delete product by id
+DELETE http://localhost:4000/product-api/products/698032931222a1c462654efd
+
+
+### User authentication - Login req
+POST http://localhost:4000/user-api/auth
+Content-Type: application/json
+
+{
+    "username":"Birzuu",
+    "password":"birzulu"
+}
+
+
+### request for protected route
+GET http://localhost:4000/user-api/test
