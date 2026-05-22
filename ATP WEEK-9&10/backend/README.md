@@ -26,7 +26,7 @@
 
 ##  Node.js + Express.js Backend API
 
-Backend server for the MERN Stack Blogging Platform with 🔐 authentication, 👨‍💻 role-based authorization, ☁️ Cloudinary image uploads, and 🍃 MongoDB Atlas integration.
+Backend server for the MERN Stack Blogging Platform with  authentication,  role-based authorization,  Cloudinary image uploads, and  MongoDB Atlas integration.
 
 ---
 
