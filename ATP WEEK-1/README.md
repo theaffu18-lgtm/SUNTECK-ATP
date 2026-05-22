@@ -1,18 +1,18 @@
-# 📖 ATP WEEK-1
+#  ATP WEEK-1
 
-## 🔰 JavaScript Fundamentals
+##  JavaScript Fundamentals
 
 This folder contains beginner-level JavaScript concepts and logic-building programs.
 
 ---
 
-## 📂 Files Included
+##  Files Included
 
 ---
 
-### 📄 BasicJs.js
+###  BasicJs.js
 
-#### 📌 Topics Covered
+####  Topics Covered
 
 - Variables
 - Data Types
@@ -22,15 +22,15 @@ This folder contains beginner-level JavaScript concepts and logic-building progr
 - Numbers
 - Basic Syntax
 
-#### 🎯 Learning Outcome
+####  Learning Outcome
 
 Understand the foundation of JavaScript programming.
 
 ---
 
-### 📄 ControlStatements.js
+###  ControlStatements.js
 
-#### 📌 Topics Covered
+####  Topics Covered
 
 - if statements
 - if-else
@@ -41,15 +41,15 @@ Understand the foundation of JavaScript programming.
   - while
   - do-while
 
-#### 🎯 Learning Outcome
+####  Learning Outcome
 
 Understand decision making and control flow in programs.
 
 ---
 
-### 📄 Object.js
+###  Object.js
 
-#### 📌 Topics Covered
+####  Topics Covered
 
 - Object creation
 - Properties & methods
@@ -57,15 +57,15 @@ Understand decision making and control flow in programs.
 - Accessing object data
 - Updating object values
 
-#### 🎯 Learning Outcome
+####  Learning Outcome
 
 Learn how real-world structured data is stored.
 
 ---
 
-### 📄 ArrayMethods1.js
+###  ArrayMethods1.js
 
-#### 📌 Topics Covered
+####  Topics Covered
 
 ```js
 push()
@@ -76,15 +76,15 @@ slice()
 splice()
 ```
 
-#### 🎯 Learning Outcome
+####  Learning Outcome
 
 Understand array manipulation techniques.
 
 ---
 
-### 📄 ArrayMethods2.js
+###  ArrayMethods2.js
 
-#### 📌 Topics Covered
+####  Topics Covered
 
 ```js
 map()
@@ -95,7 +95,7 @@ sort()
 forEach()
 ```
 
-#### 🎯 Learning Outcome
+####  Learning Outcome
 
 Learn advanced array processing and functional programming concepts.
 
