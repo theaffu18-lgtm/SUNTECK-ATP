@@ -2,7 +2,7 @@
 
 ##  React.js + Vite Frontend
 
-Frontend application for the MERN Stack Blogging Platform with 🔐 authentication, 👨‍💻 role-based dashboards, ☁️ profile image uploads, and 📚 article management.
+Frontend application for the MERN Stack Blogging Platform with  authentication,  role-based dashboards,  profile image uploads, and  article management.
 
 ---
 
