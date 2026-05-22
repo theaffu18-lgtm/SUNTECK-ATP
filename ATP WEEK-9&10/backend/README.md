@@ -22,9 +22,9 @@
 
 ###
 
-# ⚙️ Backend - Capstone Project Final
+# Backend - Capstone Project Final
 
-## 🚀 Node.js + Express.js Backend API
+##  Node.js + Express.js Backend API
 
 Backend server for the MERN Stack Blogging Platform with 🔐 authentication, 👨‍💻 role-based authorization, ☁️ Cloudinary image uploads, and 🍃 MongoDB Atlas integration.
 
