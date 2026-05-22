@@ -1,6 +1,6 @@
-# 📖 ATP WEEK-8
+#  ATP WEEK-8
 
-# 🌐 Full Stack User Management Application
+#  Full Stack User Management Application
 
 This folder contains a full-stack application developed using:
 
@@ -14,7 +14,7 @@ The project demonstrates how frontend and backend applications communicate toget
 
 ---
 
-# 📂 Folder Structure
+#  Folder Structure
 
 ```bash
 ATP WEEK-8
@@ -37,9 +37,9 @@ ATP WEEK-8
 
 ---
 
-# 🧠 Technologies Used
+#  Technologies Used
 
-# ⚛️ Frontend
+#  Frontend
 
 - ReactJS
 - JavaScript
@@ -48,7 +48,7 @@ ATP WEEK-8
 
 ---
 
-# 🖥️ Backend
+#  Backend
 
 - Node.js
 - Express.js
@@ -57,7 +57,7 @@ ATP WEEK-8
 
 ---
 
-# 🔄 Full Stack Workflow
+#  Full Stack Workflow
 
 ```text
 Frontend UI
@@ -77,9 +77,9 @@ Frontend Updates UI
 
 ---
 
-# 🖥️ Backend Section
+#  Backend Section
 
-# 📂 Backend Folder Structure
+#  Backend Folder Structure
 
 ```bash
 backend
@@ -94,25 +94,25 @@ backend
 
 ---
 
-# 🌐 server.js
+#  server.js
 
-# 🧠 Main Backend Server
+#  Main Backend Server
 
 This is the entry point of the backend application.
 
 ---
 
-## 📌 Responsibilities
+##  Responsibilities
 
-✅ Create Express Server  
-✅ Configure Middleware  
-✅ Handle API Routes  
-✅ Connect Database  
-✅ Start Backend Server  
+ Create Express Server  
+ Configure Middleware  
+ Handle API Routes  
+ Connect Database  
+ Start Backend Server  
 
 ---
 
-## 📌 Concepts Covered
+##  Concepts Covered
 
 - Express Server Setup
 - Middleware Integration
@@ -122,7 +122,7 @@ This is the entry point of the backend application.
 
 ---
 
-## 🧠 Example Features
+##  Example Features
 
 ### Parse JSON Requests
 
@@ -140,31 +140,31 @@ app.listen(PORT)
 
 ---
 
-# 📂 APIs Folder
+#  APIs Folder
 
 Contains all backend API route handlers.
 
 ---
 
-# 📄 UserAPI.js
+#  UserAPI.js
 
-# 👤 User Management APIs
+#  User Management APIs
 
 Handles all user-related backend operations.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ Add Users  
-✅ Read User Data  
-✅ API Routing  
-✅ Request Handling  
-✅ Response Handling  
+ Add Users  
+ Read User Data  
+ API Routing  
+ Request Handling  
+ Response Handling  
 
 ---
 
-## 📌 Concepts Covered
+##  Concepts Covered
 
 - REST APIs
 - Express Router
@@ -173,7 +173,7 @@ Handles all user-related backend operations.
 
 ---
 
-# 🔄 User API Workflow
+#  User API Workflow
 
 ```text
 Frontend Form
@@ -191,29 +191,29 @@ Return Response
 
 ---
 
-# 📂 models Folder
+#  models Folder
 
 Contains MongoDB database schemas using Mongoose.
 
 ---
 
-# 📄 UserModel.js
+#  UserModel.js
 
-# 👤 User Database Schema
+#  User Database Schema
 
 Defines the structure of user data.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ User Schema  
-✅ Data Validation  
-✅ MongoDB Collection Structure  
+ User Schema  
+ Data Validation  
+ MongoDB Collection Structure  
 
 ---
 
-## 🧠 Example Schema
+##  Example Schema
 
 ```js
 const UserSchema = new mongoose.Schema({
@@ -224,30 +224,30 @@ const UserSchema = new mongoose.Schema({
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 Understand how MongoDB models are created using Mongoose.
 
 ---
 
-# 📄 rest.http
+#  rest.http
 
-# 🧪 API Testing File
+#  API Testing File
 
 Used for testing backend APIs directly.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ Test GET Requests  
-✅ Test POST Requests  
-✅ Verify API Responses  
-✅ Backend Debugging  
+ Test GET Requests  
+ Test POST Requests  
+ Verify API Responses  
+ Backend Debugging  
 
 ---
 
-## 📌 HTTP Methods Used
+##  HTTP Methods Used
 
 ```http
 GET
@@ -258,15 +258,15 @@ DELETE
 
 ---
 
-# 📦 package.json
+#  package.json
 
-# 📌 Backend Dependency Management
+#  Backend Dependency Management
 
 Stores project dependencies and scripts.
 
 ---
 
-## 📌 Common Dependencies
+##  Common Dependencies
 
 ```json
 express
@@ -277,9 +277,9 @@ nodemon
 
 ---
 
-# ⚛️ Frontend Section
+#  Frontend Section
 
-# 📂 Frontend Folder Structure
+#  Frontend Folder Structure
 
 ```bash
 frontend
@@ -293,13 +293,13 @@ frontend
 
 ---
 
-# 📂 src Folder
+#  src Folder
 
 Contains all frontend source code.
 
 ---
 
-# 📂 Components Included
+#  Components Included
 
 ```bash
 Header.jsx
@@ -313,71 +313,71 @@ RootLayout.jsx
 
 ---
 
-# 📄 Header.jsx
+#  Header.jsx
 
-# 🧭 Navigation/Header Component
+#  Navigation/Header Component
 
 Displays the top navigation section of the application.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ Application Branding  
-✅ Navigation UI  
-✅ Reusable Layout Component  
+ Application Branding  
+ Navigation UI  
+ Reusable Layout Component  
 
 ---
 
-# 📄 Footer.jsx
+#  Footer.jsx
 
-# 📌 Footer Component
+#  Footer Component
 
 Displays footer information across the application.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ Footer UI  
-✅ Reusable Layout  
+ Footer UI  
+ Reusable Layout  
 
 ---
 
-# 📄 Home.jsx
+#  Home.jsx
 
-# 🏠 Homepage Component
+#  Homepage Component
 
 Acts as the main landing page of the application.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ Main UI Rendering  
-✅ Navigation Integration  
-✅ Component Rendering  
+ Main UI Rendering  
+ Navigation Integration  
+ Component Rendering  
 
 ---
 
-# 📄 AddUser.jsx
+#  AddUser.jsx
 
-# ➕ Add User Component
+#  Add User Component
 
 Handles user form submission.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ User Form  
-✅ Input Handling  
-✅ Form Submission  
-✅ API Requests  
+ User Form  
+ Input Handling  
+ Form Submission  
+ API Requests  
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 ```text
 User Input
@@ -393,86 +393,86 @@ Database Stores User
 
 ---
 
-# 📄 UsersList.jsx
+#  UsersList.jsx
 
-# 📋 User List Component
+#  User List Component
 
 Displays all users dynamically.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ Dynamic Rendering  
-✅ Display User Data  
-✅ API Data Handling  
+ Dynamic Rendering  
+ Display User Data  
+ API Data Handling  
 
 ---
 
-# 📄 User.jsx
+#  User.jsx
 
-# 👤 Single User Component
+#  Single User Component
 
 Displays individual user details.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ User Information  
-✅ Reusable User Card  
+ User Information  
+ Reusable User Card  
 
 ---
 
-# 📄 RootLayout.jsx
+#  RootLayout.jsx
 
-# 🧱 Main Layout Structure
+#  Main Layout Structure
 
 Defines the overall application layout.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ Shared Layout  
-✅ Header & Footer Integration  
-✅ Nested Components  
+ Shared Layout  
+ Header & Footer Integration  
+ Nested Components  
 
 ---
 
-# ⚛️ React Concepts Used
+#  React Concepts Used
 
-# ✅ Components
+#  Components
 
 Reusable UI blocks.
 
 ---
 
-# ✅ Props
+#  Props
 
 Used for passing data between components.
 
 ---
 
-# ✅ State Management
+#  State Management
 
 Used for dynamic UI updates.
 
 ---
 
-# ✅ Event Handling
+#  Event Handling
 
 Used for form submission and interactions.
 
 ---
 
-# ✅ Dynamic Rendering
+#  Dynamic Rendering
 
 UI updates automatically when data changes.
 
 ---
 
-# 🔄 Full Stack Architecture
+#  Full Stack Architecture
 
 ```text
 React Frontend
@@ -490,9 +490,9 @@ Frontend UI Update
 
 ---
 
-# 🧠 Core Concepts Learned
+#  Core Concepts Learned
 
-# ✅ Frontend Skills
+#  Frontend Skills
 
 - React Components
 - Props & State
@@ -501,7 +501,7 @@ Frontend UI Update
 
 ---
 
-# ✅ Backend Skills
+#  Backend Skills
 
 - Express APIs
 - Routing
@@ -510,7 +510,7 @@ Frontend UI Update
 
 ---
 
-# ✅ Full Stack Skills
+#  Full Stack Skills
 
 - Frontend + Backend Communication
 - API Integration
@@ -519,9 +519,9 @@ Frontend UI Update
 
 ---
 
-# ▶️ How to Run the Backend
+#  How to Run the Backend
 
-# 📥 Install Dependencies
+#  Install Dependencies
 
 ```bash
 npm install
@@ -529,7 +529,7 @@ npm install
 
 ---
 
-# ▶️ Start Backend Server
+#  Start Backend Server
 
 ```bash
 npm run dev
@@ -543,9 +543,9 @@ node server.js
 
 ---
 
-# ▶️ How to Run the Frontend
+#  How to Run the Frontend
 
-# 📥 Install Dependencies
+#  Install Dependencies
 
 ```bash
 npm install
@@ -553,7 +553,7 @@ npm install
 
 ---
 
-# ▶️ Start React Development Server
+#  Start React Development Server
 
 ```bash
 npm run dev
@@ -561,21 +561,21 @@ npm run dev
 
 ---
 
-# 🌟 Key Learning Outcomes
+#  Key Learning Outcomes
 
 By completing WEEK-8, the following skills are developed:
 
-✅ Full Stack Development  
-✅ React Frontend Development  
-✅ Express Backend Development  
-✅ MongoDB Database Integration  
-✅ REST API Communication  
-✅ Form Handling  
-✅ Dynamic User Management  
+ Full Stack Development  
+ React Frontend Development  
+ Express Backend Development  
+ MongoDB Database Integration  
+ REST API Communication  
+ Form Handling  
+ Dynamic User Management  
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 This project can be improved by adding:
 
@@ -590,7 +590,7 @@ This project can be improved by adding:
 
 ---
 
-# 🏁 Final Summary
+#  Final Summary
 
 This folder represents the transition from:
 
