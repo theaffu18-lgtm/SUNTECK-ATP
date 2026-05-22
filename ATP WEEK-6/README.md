@@ -1,6 +1,6 @@
-# 📖 ATP WEEK-6
+#  ATP WEEK-6
 
-# 🎨 HTML & CSS Frontend Development
+#  HTML & CSS Frontend Development
 
 This folder focuses on building static and responsive frontend webpages using:
 
@@ -16,7 +16,7 @@ The assignments in this week are focused on improving frontend UI development sk
 
 ---
 
-# 📂 Folder Structure
+#  Folder Structure
 
 ```bash
 ATP WEEK-6
@@ -36,7 +36,7 @@ ATP WEEK-6
 
 ---
 
-# 🧠 Technologies Used
+#  Technologies Used
 
 ## Frontend Technologies
 
@@ -58,15 +58,15 @@ ATP WEEK-6
 
 ---
 
-# 📂 Assets Folder
+#  Assets Folder
 
 This folder contains all images and static resources used across assignments.
 
 ---
 
-## 📌 Assets Included
+##  Assets Included
 
-### 🌆 City Images
+###  City Images
 
 - bang1.jfif
 - bang2.jpg
@@ -82,7 +82,7 @@ This folder contains all images and static resources used across assignments.
 
 ---
 
-### 🦅 Nature & Animal Images
+###  Nature & Animal Images
 
 - eagle.jfif
 - eagle2.png
@@ -93,7 +93,7 @@ This folder contains all images and static resources used across assignments.
 
 ---
 
-### 💻 Technology Images
+###  Technology Images
 
 - cam.jfif
 - cam2.webp
@@ -105,7 +105,7 @@ This folder contains all images and static resources used across assignments.
 
 ---
 
-### 👤 Profile / Character Images
+###  Profile / Character Images
 
 - nick.jfif
 - rs.jfif
@@ -115,21 +115,21 @@ This folder contains all images and static resources used across assignments.
 
 ---
 
-## 🎯 Purpose of Assets
+##  Purpose of Assets
 
 Used for:
 
-✅ Website Design  
-✅ Image Galleries  
-✅ Landing Pages  
-✅ Cards & UI Components  
-✅ Multi-page Websites  
+ Website Design  
+ Image Galleries  
+ Landing Pages  
+ Cards & UI Components  
+ Multi-page Websites  
 
 ---
 
-# 📂 Assignment-1
+#  Assignment-1
 
-# 🏗️ Basic HTML Structure
+#  Basic HTML Structure
 
 ## 📄 File
 
@@ -139,7 +139,7 @@ Assignment-1.html
 
 ---
 
-## 📌 Topics Covered
+##  Topics Covered
 
 - Headings
 - Paragraphs
@@ -149,17 +149,17 @@ Assignment-1.html
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 Understand the basic structure of an HTML webpage.
 
 ---
 
-# 📂 Assignment-2
+#  Assignment-2
 
-# 📋 Forms & Tables
+#  Forms & Tables
 
-## 📄 File
+##  File
 
 ```bash
 Assignment-2.html
@@ -167,7 +167,7 @@ Assignment-2.html
 
 ---
 
-## 📌 Topics Covered
+##  Topics Covered
 
 - Forms
 - Input Fields
@@ -177,7 +177,7 @@ Assignment-2.html
 
 ---
 
-## 🧠 Concepts Learned
+##  Concepts Learned
 
 ```html
 <form>
@@ -188,17 +188,17 @@ Assignment-2.html
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 Learn how user data is collected using HTML forms.
 
 ---
 
-# 📂 Assignment-3
+#  Assignment-3
 
-# 🧭 Structured Webpage Layout
+#  Structured Webpage Layout
 
-## 📄 File
+##  File
 
 ```bash
 Assignment-3.html
@@ -206,7 +206,7 @@ Assignment-3.html
 
 ---
 
-## 📌 Topics Covered
+##  Topics Covered
 
 - Content Structuring
 - Navigation
@@ -215,17 +215,17 @@ Assignment-3.html
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 Understand webpage organization and structured layouts.
 
 ---
 
-# 📂 Assignment-4
+#  Assignment-4
 
-# 🎨 Styled Webpage Design
+#  Styled Webpage Design
 
-## 📄 File
+##  File
 
 ```bash
 Assignment-4.html
@@ -233,7 +233,7 @@ Assignment-4.html
 
 ---
 
-## 📌 Topics Covered
+##  Topics Covered
 
 - Alignment
 - Spacing
@@ -242,21 +242,21 @@ Assignment-4.html
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 Learn how CSS improves webpage appearance.
 
 ---
 
-# 📂 Assignment-5
+#  Assignment-5
 
-# 🌐 Multi-page Website
+#  Multi-page Website
 
 This assignment demonstrates navigation between multiple webpages.
 
 ---
 
-## 📂 Files Included
+##  Files Included
 
 ```bash
 index.html
@@ -267,16 +267,16 @@ hyd.html
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ Multi-page Navigation  
-✅ Internal Linking  
-✅ City-based Pages  
-✅ Structured Layouts  
+ Multi-page Navigation  
+ Internal Linking  
+ City-based Pages  
+ Structured Layouts  
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 ```text
 Homepage
@@ -288,17 +288,17 @@ City Pages
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 Understand how multi-page websites are structured.
 
 ---
 
-# 📂 Assignment-6
+#  Assignment-6
 
-# 🎨 HTML + CSS Integration
+#  HTML + CSS Integration
 
-## 📂 Files Included
+##  Files Included
 
 ```bash
 index.html
@@ -307,7 +307,7 @@ style.css
 
 ---
 
-## 📌 Topics Covered
+##  Topics Covered
 
 - External CSS
 - CSS Selectors
@@ -316,7 +316,7 @@ style.css
 
 ---
 
-## 🧠 Example Concepts
+##  Example Concepts
 
 ```css
 color: blue;
@@ -325,17 +325,17 @@ font-size: 20px;
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 Learn separation of structure and styling.
 
 ---
 
-# 📂 Assignment-7
+#  Assignment-7
 
-# 📱 Responsive Design Basics
+#  Responsive Design Basics
 
-## 📂 Files Included
+##  Files Included
 
 ```bash
 index.html
@@ -344,7 +344,7 @@ style.css
 
 ---
 
-## 📌 Topics Covered
+##  Topics Covered
 
 - Flexbox
 - Alignment
@@ -353,7 +353,7 @@ style.css
 
 ---
 
-## 🧠 Example Concepts
+##  Example Concepts
 
 ```css
 display: flex;
@@ -363,17 +363,17 @@ align-items: center;
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 Understand responsive webpage development.
 
 ---
 
-# 📂 Assignment-8
+#  Assignment-8
 
-# ✨ UI Enhancement Project
+#  UI Enhancement Project
 
-## 📂 Files Included
+##  Files Included
 
 ```bash
 index.html
@@ -382,7 +382,7 @@ style.css
 
 ---
 
-## 📌 Topics Covered
+##  Topics Covered
 
 - Hover Effects
 - UI Styling
@@ -391,17 +391,17 @@ style.css
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 Learn how modern UI effects improve user experience.
 
 ---
 
-# 📂 Assignment-9
+#  Assignment-9
 
-# 🧩 Modern Layout Design
+#  Modern Layout Design
 
-## 📂 Files Included
+##  Files Included
 
 ```bash
 index.html
@@ -410,7 +410,7 @@ style.css
 
 ---
 
-## 📌 Topics Covered
+##  Topics Covered
 
 - CSS Grid
 - Card Layouts
@@ -419,7 +419,7 @@ style.css
 
 ---
 
-## 🧠 Example Concepts
+##  Example Concepts
 
 ```css
 display: grid;
@@ -428,17 +428,17 @@ grid-template-columns: repeat(3, 1fr);
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 Understand advanced layout systems using CSS Grid.
 
 ---
 
-# 📂 Assignment-10
+#  Assignment-10
 
-# 🚀 Complete Frontend Webpage
+#  Complete Frontend Webpage
 
-## 📂 Files Included
+##  Files Included
 
 ```bash
 index.html
@@ -447,17 +447,17 @@ style.css
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ Responsive Design  
-✅ Styled Layout  
-✅ UI Components  
-✅ Professional Structure  
-✅ Multiple Sections  
+ Responsive Design  
+ Styled Layout  
+ UI Components  
+ Professional Structure  
+ Multiple Sections  
 
 ---
 
-## 📌 Concepts Covered
+##  Concepts Covered
 
 - Layout Design
 - Styling
@@ -467,15 +467,15 @@ style.css
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 Build complete frontend webpages using HTML and CSS.
 
 ---
 
-# 🧠 Core HTML Concepts Learned
+#  Core HTML Concepts Learned
 
-# ✅ Semantic HTML
+#  Semantic HTML
 
 - header
 - nav
@@ -485,7 +485,7 @@ Build complete frontend webpages using HTML and CSS.
 
 ---
 
-# ✅ Forms & Inputs
+#  Forms & Inputs
 
 - Text Inputs
 - Buttons
@@ -494,7 +494,7 @@ Build complete frontend webpages using HTML and CSS.
 
 ---
 
-# ✅ Navigation
+#  Navigation
 
 - Hyperlinks
 - Multi-page Navigation
@@ -502,9 +502,9 @@ Build complete frontend webpages using HTML and CSS.
 
 ---
 
-# 🎨 Core CSS Concepts Learned
+#  Core CSS Concepts Learned
 
-# ✅ Styling
+#  Styling
 
 - Colors
 - Backgrounds
@@ -513,7 +513,7 @@ Build complete frontend webpages using HTML and CSS.
 
 ---
 
-# ✅ Layout Systems
+#  Layout Systems
 
 - Flexbox
 - Grid
@@ -521,7 +521,7 @@ Build complete frontend webpages using HTML and CSS.
 
 ---
 
-# ✅ Responsive Design
+#  Responsive Design
 
 - Flexible Layouts
 - Responsive UI
@@ -529,7 +529,7 @@ Build complete frontend webpages using HTML and CSS.
 
 ---
 
-# 🔄 Frontend Workflow
+#  Frontend Workflow
 
 ```text
 HTML Structure
@@ -543,13 +543,13 @@ Final User Interface
 
 ---
 
-# ▶️ How to Run the Projects
+#  How to Run the Projects
 
 Simply open the HTML files in any browser.
 
 ---
 
-## 📌 Example
+##  Example
 
 ```bash
 Open index.html
@@ -561,20 +561,20 @@ Use VS Code Live Server Extension.
 
 ---
 
-# 🌟 Key Learning Outcomes
+#  Key Learning Outcomes
 
 By completing WEEK-6, the following skills are developed:
 
-✅ HTML Page Structuring  
-✅ CSS Styling  
-✅ Responsive Design  
-✅ Layout Building  
-✅ Multi-page Website Development  
-✅ Frontend UI Design  
+ HTML Page Structuring  
+ CSS Styling  
+ Responsive Design  
+ Layout Building  
+ Multi-page Website Development  
+ Frontend UI Design  
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 The frontend projects can be improved by adding:
 
@@ -587,7 +587,7 @@ The frontend projects can be improved by adding:
 
 ---
 
-# 🏁 Final Summary
+#  Final Summary
 
 This folder represents the transition from:
 
