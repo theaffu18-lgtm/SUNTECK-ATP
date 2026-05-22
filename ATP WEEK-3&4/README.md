@@ -1,6 +1,6 @@
-# 📖 ATP WEEK-3 & WEEK-4
+#  ATP WEEK-3 & WEEK-4
 
-# 🛠️ Backend Development with Node.js & Express.js
+#  Backend Development with Node.js & Express.js
 
 This folder focuses on backend development concepts using:
 
@@ -15,7 +15,7 @@ The project demonstrates how server-side applications are structured and how API
 
 ---
 
-# 📂 Folder Structure
+#  Folder Structure
 
 ```bash
 ATP WEEK-3&4
@@ -33,7 +33,7 @@ ATP WEEK-3&4
 
 ---
 
-# 🚀 Technologies Used
+#  Technologies Used
 
 ## Backend Technologies
 
@@ -51,23 +51,23 @@ ATP WEEK-3&4
 
 ---
 
-# 📄 server.js
+#  server.js
 
-# 🌐 Main Backend Server
+#  Main Backend Server
 
 This is the entry point of the backend application.
 
 It is responsible for:
 
-✅ Creating the Express Server  
-✅ Handling Middleware  
-✅ Connecting APIs  
-✅ Starting the Server  
-✅ Managing Routes  
+ Creating the Express Server  
+ Handling Middleware  
+ Connecting APIs  
+ Starting the Server  
+ Managing Routes  
 
 ---
 
-## 📌 Concepts Covered
+##  Concepts Covered
 
 - Express Server Setup
 - Middleware Configuration
@@ -77,7 +77,7 @@ It is responsible for:
 
 ---
 
-## 🧠 Example Features
+##  Example Features
 
 ```js
 app.use(express.json())
@@ -95,7 +95,7 @@ Starts the backend server on a specific port.
 
 ---
 
-# 🔄 Backend Workflow
+#  Backend Workflow
 
 ```text
 Client Request
@@ -111,13 +111,13 @@ Response Sent Back
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 Understand how backend servers are created and managed using Express.js.
 
 ---
 
-# 📂 APIs Folder
+#  APIs Folder
 
 This folder contains all API route handling logic.
 
@@ -125,24 +125,24 @@ The APIs are separated based on functionality for better project structure.
 
 ---
 
-# 📄 userapi.js
+#  userapi.js
 
-# 👤 User API Routes
+#  User API Routes
 
 Handles user-related backend operations.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ Create User  
-✅ Read User Data  
-✅ Handle User Requests  
-✅ Send API Responses  
+ Create User  
+ Read User Data  
+ Handle User Requests  
+ Send API Responses  
 
 ---
 
-## 📌 Concepts Covered
+##  Concepts Covered
 
 - Express Router
 - Route Handling
@@ -151,7 +151,7 @@ Handles user-related backend operations.
 
 ---
 
-## 🔄 Example Workflow
+##  Example Workflow
 
 ```text
 Frontend Request
@@ -165,7 +165,7 @@ Send Response
 
 ---
 
-## 🧠 Example API Structure
+##  Example API Structure
 
 ```js
 router.get('/users', (req, res) => {
@@ -175,30 +175,30 @@ router.get('/users', (req, res) => {
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 Understand how APIs are built for handling user operations.
 
 ---
 
-# 📄 productapi.js
+#  productapi.js
 
-# 🛍️ Product API Routes
+#  Product API Routes
 
 Handles product-related backend functionality.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ Product APIs  
-✅ Product Data Handling  
-✅ Route Management  
-✅ API Responses  
+ Product APIs  
+ Product Data Handling  
+ Route Management  
+ API Responses  
 
 ---
 
-## 📌 Concepts Covered
+##  Concepts Covered
 
 - API Routing
 - Modular Backend Structure
@@ -207,7 +207,7 @@ Handles product-related backend functionality.
 
 ---
 
-## 🔄 Example Workflow
+##  Example Workflow
 
 ```text
 Product Request
@@ -221,15 +221,15 @@ Return Response
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 Learn how product APIs are structured in backend applications.
 
 ---
 
-# 📄 req.HTTP
+#  req.HTTP
 
-# 🧪 API Testing File
+#  API Testing File
 
 This file is used for testing backend APIs directly.
 
@@ -237,16 +237,16 @@ It helps developers test requests without frontend integration.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ Test GET Requests  
-✅ Test POST Requests  
-✅ Verify API Responses  
-✅ Debug Backend APIs  
+ Test GET Requests  
+ Test POST Requests  
+ Verify API Responses  
+ Debug Backend APIs  
 
 ---
 
-## 📌 HTTP Methods Used
+##  HTTP Methods Used
 
 ```http
 GET
@@ -257,15 +257,15 @@ DELETE
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 Understand how APIs are tested during backend development.
 
 ---
 
-# 📄 package.json
+#  package.json
 
-# 📦 Project Configuration File
+#  Project Configuration File
 
 This file manages:
 
@@ -276,7 +276,7 @@ This file manages:
 
 ---
 
-## 📌 Important Sections
+##  Important Sections
 
 ### Dependencies
 
@@ -302,37 +302,37 @@ Example:
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 Understand project dependency and script management using npm.
 
 ---
 
-# 📄 package-lock.json
+#  package-lock.json
 
-# 🔒 Dependency Lock File
+#  Dependency Lock File
 
 This file stores the exact versions of installed dependencies.
 
 ---
 
-## 📌 Purpose
+##  Purpose
 
-✅ Dependency consistency  
-✅ Faster installations  
-✅ Stable project setup  
+ Dependency consistency  
+ Faster installations  
+ Stable project setup  
 
 ---
 
-# 📄 .gitignore
+#  .gitignore
 
-# 🚫 Ignored Files Configuration
+#  Ignored Files Configuration
 
 This file prevents unnecessary files from being uploaded to GitHub.
 
 ---
 
-## 📌 Common Ignored Files
+##  Common Ignored Files
 
 ```bash
 node_modules/
@@ -341,15 +341,15 @@ node_modules/
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 Learn proper Git and repository management practices.
 
 ---
 
-# 🧠 Core Backend Concepts Learned
+#  Core Backend Concepts Learned
 
-# ✅ Node.js
+#  Node.js
 
 - Runtime Environment
 - Server-side JavaScript
@@ -357,7 +357,7 @@ Learn proper Git and repository management practices.
 
 ---
 
-# ✅ Express.js
+#  Express.js
 
 - Routing
 - Middleware
@@ -366,7 +366,7 @@ Learn proper Git and repository management practices.
 
 ---
 
-# ✅ REST APIs
+#  REST APIs
 
 - GET Requests
 - POST Requests
@@ -375,7 +375,7 @@ Learn proper Git and repository management practices.
 
 ---
 
-# ✅ Backend Architecture
+#  Backend Architecture
 
 - Modular Structure
 - Route Separation
@@ -383,7 +383,7 @@ Learn proper Git and repository management practices.
 
 ---
 
-# 🔄 Complete Backend Request Lifecycle
+#  Complete Backend Request Lifecycle
 
 ```text
 Frontend
@@ -405,7 +405,7 @@ Frontend
 
 ---
 
-# ▶️ How to Run the Project
+#  How to Run the Project
 
 # 📥 Install Dependencies
 
@@ -415,7 +415,7 @@ npm install
 
 ---
 
-# ▶️ Start Backend Server
+#  Start Backend Server
 
 ```bash
 node server.js
@@ -429,21 +429,21 @@ npm start
 
 ---
 
-# 🌟 Key Learning Outcomes
+#  Key Learning Outcomes
 
 By completing WEEK-3 & WEEK-4, the following skills are developed:
 
-✅ Backend Development Fundamentals  
-✅ Express.js Server Creation  
-✅ API Development  
-✅ Route Handling  
-✅ REST API Testing  
-✅ Modular Backend Architecture  
-✅ Node.js Project Structure  
+ Backend Development Fundamentals  
+ Express.js Server Creation  
+ API Development  
+ Route Handling  
+ REST API Testing  
+ Modular Backend Architecture  
+  Node.js Project Structure  
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 This backend project can be improved by adding:
 
@@ -457,7 +457,7 @@ This backend project can be improved by adding:
 
 ---
 
-# 🏁 Final Summary
+#  Final Summary
 
 This folder represents the transition from:
 
