@@ -1,6 +1,6 @@
-# 📖 ATP WEEK-5
+#  ATP WEEK-5
 
-# 🚀 Advanced Backend Development with Node.js, Express & MongoDB
+#  Advanced Backend Development with Node.js, Express & MongoDB
 
 This folder focuses on advanced backend development concepts using:
 
@@ -16,7 +16,7 @@ The project demonstrates how real-world backend applications are structured usin
 
 ---
 
-# 📂 Folder Structure
+#  Folder Structure
 
 ```bash
 ATP WEEK-5
@@ -41,7 +41,7 @@ ATP WEEK-5
 
 ---
 
-# 🧠 Technologies Used
+#  Technologies Used
 
 ## Backend Technologies
 
@@ -61,23 +61,23 @@ ATP WEEK-5
 
 ---
 
-# 🌐 server.js
+#  server.js
 
-# 🖥️ Main Backend Server
+#  Main Backend Server
 
 This is the entry point of the backend application.
 
 It is responsible for:
 
-✅ Creating the Express Server  
-✅ Connecting Middleware  
-✅ Handling API Routes  
-✅ Managing Requests  
-✅ Starting the Backend Server  
+ Creating the Express Server  
+ Connecting Middleware  
+ Handling API Routes  
+ Managing Requests  
+ Starting the Backend Server  
 
 ---
 
-## 📌 Concepts Covered
+##  Concepts Covered
 
 - Express Server Setup
 - Middleware Integration
@@ -87,7 +87,7 @@ It is responsible for:
 
 ---
 
-## 🧠 Example Features
+##  Example Features
 
 ### Parse JSON Requests
 
@@ -105,7 +105,7 @@ app.listen(PORT)
 
 ---
 
-## 🔄 Backend Workflow
+##  Backend Workflow
 
 ```text
 Client Request
@@ -123,13 +123,13 @@ Response Sent Back
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 Understand how scalable backend servers are structured using Express.js.
 
 ---
 
-# 📂 APIs Folder
+#  APIs Folder
 
 This folder contains all backend API route handlers.
 
@@ -137,24 +137,24 @@ The APIs are separated based on modules for better architecture and maintainabil
 
 ---
 
-# 📄 user_api.js
+#  user_api.js
 
-# 👤 User API Module
+#  User API Module
 
 Handles all user-related backend operations.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ User Creation  
-✅ User Retrieval  
-✅ User Authentication  
-✅ User Data Handling  
+ User Creation  
+ User Retrieval  
+ User Authentication  
+ User Data Handling  
 
 ---
 
-## 📌 Concepts Covered
+##  Concepts Covered
 
 - Express Router
 - REST APIs
@@ -164,7 +164,7 @@ Handles all user-related backend operations.
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 ```text
 Frontend Request
@@ -180,7 +180,7 @@ Return Response
 
 ---
 
-## 🧠 Example API Route
+##  Example API Route
 
 ```js
 router.get('/users', (req, res) => {
@@ -190,30 +190,30 @@ router.get('/users', (req, res) => {
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 Learn how user-related APIs are built and organized.
 
 ---
 
-# 📄 product_api.js
+#  product_api.js
 
-# 🛍️ Product API Module
+#  Product API Module
 
 Handles all product-related backend functionality.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ Product APIs  
-✅ Product Data Handling  
-✅ Product Routes  
-✅ API Responses  
+ Product APIs  
+ Product Data Handling  
+ Product Routes  
+ API Responses  
 
 ---
 
-## 📌 Concepts Covered
+##  Concepts Covered
 
 - Product Management
 - API Routing
@@ -222,7 +222,7 @@ Handles all product-related backend functionality.
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 ```text
 Product Request
@@ -238,36 +238,36 @@ Return Response
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 Understand backend product management architecture.
 
 ---
 
-# 📂 middleware Folder
+#  middleware Folder
 
-# 🔐 Authentication Middleware
+#  Authentication Middleware
 
 Middleware functions execute before requests reach the API routes.
 
 ---
 
-# 📄 verifytoken.js
+#  verifytoken.js
 
 This middleware is used for token verification and route protection.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ Authentication Checking  
-✅ Token Verification  
-✅ Route Protection  
-✅ Secure API Access  
+ Authentication Checking  
+ Token Verification  
+ Route Protection  
+ Secure API Access  
 
 ---
 
-## 🧠 Concepts Covered
+##  Concepts Covered
 
 - Middleware
 - Authentication
@@ -276,7 +276,7 @@ This middleware is used for token verification and route protection.
 
 ---
 
-## 🔄 Middleware Workflow
+##  Middleware Workflow
 
 ```text
 Client Request
@@ -292,36 +292,36 @@ Continue     Reject Request
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 Understand how authentication middleware protects backend APIs.
 
 ---
 
-# 📂 models Folder
+#  models Folder
 
 This folder contains MongoDB database schemas using Mongoose.
 
 ---
 
-# 📄 usermodel.js
+#  usermodel.js
 
-# 👤 User Database Model
+#  User Database Model
 
 Defines the structure of user data inside MongoDB.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ User Schema  
-✅ Field Validation  
-✅ Database Structure  
-✅ User Collection Management  
+ User Schema  
+ Field Validation  
+ Database Structure  
+ User Collection Management  
 
 ---
 
-## 🧠 Example Concepts
+##  Example Concepts
 
 ```js
 const UserSchema = new mongoose.Schema({
@@ -332,52 +332,52 @@ const UserSchema = new mongoose.Schema({
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 Learn how MongoDB schemas are created using Mongoose.
 
 ---
 
-# 📄 productmodel.js
+#  productmodel.js
 
-# 🛒 Product Database Model
+#  Product Database Model
 
 Defines the structure of product data.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ Product Schema  
-✅ Product Validation  
-✅ Product Database Structure  
+ Product Schema  
+ Product Validation  
+ Product Database Structure  
 
 ---
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 
 Understand how product collections are managed in MongoDB.
 
 ---
 
-# 📄 req.http
+#  req.http
 
-# 🧪 API Testing File
+#  API Testing File
 
 Used for testing backend APIs directly.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ Test GET Requests  
-✅ Test POST Requests  
-✅ Verify API Responses  
-✅ Backend Debugging  
+ Test GET Requests  
+ Test POST Requests  
+ Verify API Responses  
+ Backend Debugging  
 
 ---
 
-## 📌 HTTP Methods Used
+##  HTTP Methods Used
 
 ```http
 GET
@@ -388,23 +388,23 @@ DELETE
 
 ---
 
-# 📄 package.json
+#  package.json
 
-# 📦 Project Configuration File
+#  Project Configuration File
 
 Manages project dependencies and scripts.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ Dependency Management  
-✅ Script Configuration  
-✅ Project Metadata  
+ Dependency Management  
+ Script Configuration  
+ Project Metadata  
 
 ---
 
-## 🧠 Example
+##  Example
 
 ```json
 "scripts": {
@@ -414,31 +414,31 @@ Manages project dependencies and scripts.
 
 ---
 
-# 📄 package-lock.json
+#  package-lock.json
 
-# 🔒 Dependency Lock File
+#  Dependency Lock File
 
 Stores exact dependency versions.
 
 ---
 
-## 📌 Purpose
+##  Purpose
 
-✅ Stable Installations  
-✅ Consistent Dependencies  
-✅ Faster npm Installations  
+ Stable Installations  
+ Consistent Dependencies  
+ Faster npm Installations  
 
 ---
 
-# 📄 .gitignore
+#  .gitignore
 
-# 🚫 Git Ignore Configuration
+#  Git Ignore Configuration
 
 Prevents unnecessary files from being pushed to GitHub.
 
 ---
 
-## 📌 Common Ignored Files
+##  Common Ignored Files
 
 ```bash
 node_modules/
@@ -447,9 +447,9 @@ node_modules/
 
 ---
 
-# 🧠 Core Backend Concepts Learned
+#  Core Backend Concepts Learned
 
-# ✅ Node.js
+#  Node.js
 
 - Server-side JavaScript
 - Runtime Environment
@@ -457,7 +457,7 @@ node_modules/
 
 ---
 
-# ✅ Express.js
+#  Express.js
 
 - Routing
 - Middleware
@@ -466,7 +466,7 @@ node_modules/
 
 ---
 
-# ✅ MongoDB & Mongoose
+#  MongoDB & Mongoose
 
 - Schemas
 - Models
@@ -475,7 +475,7 @@ node_modules/
 
 ---
 
-# ✅ Authentication
+#  Authentication
 
 - Token Verification
 - Protected Routes
@@ -483,7 +483,7 @@ node_modules/
 
 ---
 
-# ✅ REST APIs
+#  REST APIs
 
 - GET Requests
 - POST Requests
@@ -492,7 +492,7 @@ node_modules/
 
 ---
 
-# 🔄 Complete Backend Architecture
+#  Complete Backend Architecture
 
 ```text
 Frontend
@@ -514,9 +514,9 @@ Frontend
 
 ---
 
-# ▶️ How to Run the Project
+#  How to Run the Project
 
-# 📥 Install Dependencies
+#  Install Dependencies
 
 ```bash
 npm install
@@ -524,7 +524,7 @@ npm install
 
 ---
 
-# ▶️ Start Backend Server
+#  Start Backend Server
 
 ```bash
 node server.js
@@ -538,21 +538,21 @@ npm start
 
 ---
 
-# 🌟 Key Learning Outcomes
+#  Key Learning Outcomes
 
 By completing WEEK-5, the following skills are developed:
 
-✅ Backend Development  
-✅ Express.js APIs  
-✅ MongoDB Integration  
-✅ Authentication Middleware  
-✅ REST API Architecture  
-✅ Database Modeling  
-✅ Modular Backend Structure  
+ Backend Development  
+ Express.js APIs  
+ MongoDB Integration  
+ Authentication Middleware  
+ REST API Architecture  
+ Database Modeling  
+ Modular Backend Structure  
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 This backend project can be improved by adding:
 
@@ -566,7 +566,7 @@ This backend project can be improved by adding:
 
 ---
 
-# 🏁 Final Summary
+#  Final Summary
 
 This folder represents the transition from:
 
