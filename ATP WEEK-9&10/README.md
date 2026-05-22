@@ -1,83 +1,83 @@
-# 🚀 Capstone Project Final
+#  Capstone Project Final
 
-## ✨ MERN Stack Blogging Platform
+##  MERN Stack Blogging Platform
 
-A full-stack blogging platform built using the MERN Stack with 🔐 authentication, 👨‍💻 role-based dashboards, ☁️ Cloudinary image uploads, 📝 article management, and 👑 admin controls.
-
----
-
-# 🌐 Live Demo
-
-## 🎨 Frontend Live
-👉 https://capstoneprojectfinallast.vercel.app/
-
-## ⚙️ Backend API
-👉 https://capstone-project-final-last.onrender.com
+A full-stack blogging platform built using the MERN Stack with 🔐 authentication, 👨‍💻 role-based dashboards, ☁️ Cloudinary image uploads, 📝 article management, and  admin controls.
 
 ---
 
-# 🌟 Features
+#  Live Demo
 
-## 🔐 Authentication
-- ✅ User Registration
-- ✅ User Login
-- ✅ JWT Authentication
-- ✅ Protected Routes
-- ✅ Role-Based Authorization
+##  Frontend Live
+ https://capstoneprojectfinallast.vercel.app/
 
----
-
-# 👥 User Roles
-
-## 👤 USER
-- 📖 Read Articles
-- 💬 Comment on Articles
-- 🖼️ Upload Profile Picture
+##  Backend API
+ https://capstone-project-final-last.onrender.com
 
 ---
 
-## ✍️ AUTHOR
-- ➕ Create Articles
-- ✏️ Edit Articles
-- ❌ Delete Articles
-- 📚 Manage Own Articles
+#  Features
+
+##  Authentication
+-  User Registration
+-  User Login
+-  JWT Authentication
+-  Protected Routes
+-  Role-Based Authorization
 
 ---
 
-## 👑 ADMIN
-- 👀 View All Users
-- 👀 View All Authors
-- 🚫 Block Users
-- ✅ Unblock Users
-- 📊 Dashboard Statistics
+#  User Roles
+
+##  USER
+-  Read Articles
+-  Comment on Articles
+-  Upload Profile Picture
 
 ---
 
-# 🛠️ Tech Stack
-
-## 🎨 Frontend
-- ⚛️ React.js
-- ⚡ Vite
-- 🌐 Axios
-- 🧭 React Router DOM
-- 🎨 Tailwind CSS
-- 🔔 React Hot Toast
+##  AUTHOR
+-  Create Articles
+-  Edit Articles
+-  Delete Articles
+-  Manage Own Articles
 
 ---
 
-## ⚙️ Backend
-- 🟢 Node.js
-- 🚂 Express.js
-- 🍃 MongoDB Atlas
-- 📦 Mongoose
-- 🔐 JWT Authentication
-- 🔒 bcryptjs
-- 📁 Multer
-- ☁️ Cloudinary
+##  ADMIN
+-  View All Users
+-  View All Authors
+-  Block Users
+-  Unblock Users
+-  Dashboard Statistics
 
 ---
 
-# 📁 Project Structure
+#  Tech Stack
+
+##  Frontend
+-  React.js
+-  Vite
+-  Axios
+-  React Router DOM
+-  Tailwind CSS
+-  React Hot Toast
+
+---
+
+##  Backend
+-  Node.js
+-  Express.js
+-  MongoDB Atlas
+-  Mongoose
+-  JWT Authentication
+-  bcryptjs
+-  Multer
+-  Cloudinary
+
+---
+
+#  Project Structure
 
 ```bash
 blog_app/
@@ -102,9 +102,9 @@ blog_app/
 
 ---
 
-# ⚙️ Local Setup
+#  Local Setup
 
-## 📦 Clone Repository
+##  Clone Repository
 
 ```bash
 git clone https://github.com/theaffu-18-lgtm/Capstone_Project_Final.git
@@ -112,7 +112,7 @@ git clone https://github.com/theaffu-18-lgtm/Capstone_Project_Final.git
 
 ---
 
-# ▶️ Backend Setup
+#  Backend Setup
 
 ```bash
 cd backend
@@ -120,7 +120,7 @@ npm install
 npm start
 ```
 
-✅ Backend runs on:
+ Backend runs on:
 
 ```bash
 http://localhost:4000
@@ -128,7 +128,7 @@ http://localhost:4000
 
 ---
 
-# ▶️ Frontend Setup
+#  Frontend Setup
 
 ```bash
 cd frontend
@@ -136,7 +136,7 @@ npm install
 npm run dev
 ```
 
-✅ Frontend runs on:
+ Frontend runs on:
 
 ```bash
 http://localhost:5173
@@ -144,9 +144,9 @@ http://localhost:5173
 
 ---
 
-# 🔑 Environment Variables
+#  Environment Variables
 
-## ⚙️ Backend `.env`
+##  Backend `.env`
 
 ```env
 DB_URL=your_mongodb_connection_string
@@ -159,7 +159,7 @@ API_SECRET=your_cloudinary_api_secret
 
 ---
 
-## 🎨 Frontend `.env`
+##  Frontend `.env`
 
 ```env
 VITE_API_URL=http://localhost:4000
@@ -167,78 +167,78 @@ VITE_API_URL=http://localhost:4000
 
 ---
 
-# ☁️ Deployment
+#  Deployment
 
-## 🌐 Frontend Deployment
-- ✅ Vercel
-- 🔗 https://capstoneprojectfinallast.vercel.app/
+##  Frontend Deployment
+-  Vercel
+-  https://capstoneprojectfinallast.vercel.app/
 
-## ⚙️ Backend Deployment
-- ✅ Render
-- 🔗 https://capstone-project-final-last.onrender.com
+##  Backend Deployment
+-  Render
+-  https://capstone-project-final-last.onrender.com
 
-## 🍃 Database
-- ✅ MongoDB Atlas
-
----
-
-# 🔐 Security Features
-
-- ✅ JWT Authentication
-- ✅ Password Hashing
-- ✅ Protected Routes
-- ✅ Role-Based Authorization
-- ✅ Environment Variables Protection
+##  Database
+-  MongoDB Atlas
 
 ---
 
-# 📸 Media Features
+#  Security Features
 
-- ✅ Profile Picture Upload
-- ✅ Article Image Upload
-- ✅ Cloudinary Storage
-- ✅ Multer Integration
-
----
-
-# 📊 Admin Dashboard
-
-- ✅ Total Users
-- ✅ Total Authors
-- ✅ Total Admins
-- ✅ User Management
-- ✅ Block / Unblock Users
+-  JWT Authentication
+-  Password Hashing
+-  Protected Routes
+-  Role-Based Authorization
+-  Environment Variables Protection
 
 ---
 
-# 🔥 Future Improvements
+#  Media Features
 
-- 🌙 Dark Mode
-- 🔍 Search Feature
-- ❤️ Like System
-- 🔖 Bookmark Articles
-- 🔔 Notifications
-- 🤖 AI Suggestions
-- 💬 Real-time Chat
+-  Profile Picture Upload
+-  Article Image Upload
+-  Cloudinary Storage
+-  Multer Integration
 
 ---
 
-# 👨‍💻 Developed By
+#  Admin Dashboard
 
-## ❤️ Mohammad Afthab
-
-- 🎓 CSE Student
-- 💻 MERN Stack Developer
-- 🚀 Passionate About Web Development
+-  Total Users
+-  Total Authors
+-  Total Admins
+-  User Management
+-  Block / Unblock Users
 
 ---
 
-# ⭐ Final Architecture
+#  Future Improvements
+
+-  Dark Mode
+-  Search Feature
+-  Like System
+-  Bookmark Articles
+-  Notifications
+-  AI Suggestions
+-  Real-time Chat
+
+---
+
+#  Developed By
+
+##  Mohammad Afthab
+
+-  CSE Student
+-  MERN Stack Developer
+-  Passionate About Web Development
+
+---
+
+#  Final Architecture
 
 ```bash
-🌐 Vercel Frontend
+ Vercel Frontend
         ↓
-⚙️ Render Backend
+ Render Backend
         ↓
-🍃 MongoDB Atlas
+ MongoDB Atlas
 ```
