@@ -2,7 +2,7 @@
 
 ##  MERN Stack Blogging Platform
 
-A full-stack blogging platform built using the MERN Stack with 🔐 authentication, 👨‍💻 role-based dashboards, ☁️ Cloudinary image uploads, 📝 article management, and  admin controls.
+A full-stack blogging platform built using the MERN Stack with  authentication,  role-based dashboards,  Cloudinary image uploads,  article management, and  admin controls.
 
 ---
 
