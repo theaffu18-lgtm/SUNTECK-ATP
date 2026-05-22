@@ -1,6 +1,6 @@
-# 📖 ATP WEEK-7
+#  ATP WEEK-7
 
-# ⚛️ ReactJS Fundamentals & Component-Based Development
+#  ReactJS Fundamentals & Component-Based Development
 
 This folder focuses on building modern frontend applications using ReactJS.
 
@@ -16,14 +16,14 @@ The projects demonstrate:
 
 All applications are developed using:
 
-✅ ReactJS  
-✅ Vite  
-✅ JavaScript  
-✅ CSS  
+ ReactJS  
+ Vite  
+ JavaScript  
+ CSS  
 
 ---
 
-# 📂 Folder Structure
+#  Folder Structure
 
 ```bash
 ATP WEEK-7
@@ -35,7 +35,7 @@ ATP WEEK-7
 
 ---
 
-# 🧠 Technologies Used
+#  Technologies Used
 
 ## Frontend Technologies
 
@@ -58,9 +58,9 @@ ATP WEEK-7
 
 ---
 
-# 🌍 Country Explorer Project
+#  Country Explorer Project
 
-# 📂 Project Overview
+#  Project Overview
 
 A React application that dynamically displays country information.
 
@@ -68,17 +68,17 @@ This project demonstrates how React components work together to build interactiv
 
 ---
 
-# 📌 Features
+#  Features
 
-✅ Search Countries  
-✅ Display Country Details  
-✅ Dynamic Rendering  
-✅ Reusable Components  
-✅ Interactive UI  
+ Search Countries  
+ Display Country Details  
+ Dynamic Rendering  
+ Reusable Components  
+ Interactive UI  
 
 ---
 
-# 📂 Components
+#  Components
 
 ```bash
 CountryApp.jsx
@@ -89,15 +89,15 @@ SearchBar.jsx
 
 ---
 
-# 📄 CountryApp.jsx
+#  CountryApp.jsx
 
-# 🧠 Main Application Component
+#  Main Application Component
 
 This is the root component of the Country Explorer project.
 
 ---
 
-## 📌 Responsibilities
+##  Responsibilities
 
 - Manage Country Data
 - Handle Search Functionality
@@ -106,24 +106,24 @@ This is the root component of the Country Explorer project.
 
 ---
 
-# 📄 CountryCard.jsx
+#  CountryCard.jsx
 
-# 🌎 Country Display Component
+#  Country Display Component
 
 Displays individual country details.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ Country Name  
-✅ Country Flag  
-✅ Population Details  
-✅ Region Information  
+ Country Name  
+ Country Flag  
+ Population Details  
+ Region Information  
 
 ---
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 - Props
 - Reusable Components
@@ -131,15 +131,15 @@ Displays individual country details.
 
 ---
 
-# 📄 CountryList.jsx
+#  CountryList.jsx
 
-# 📋 Country Collection Renderer
+#  Country Collection Renderer
 
 Responsible for displaying multiple countries dynamically.
 
 ---
 
-## 📌 Concepts Used
+##  Concepts Used
 
 - Array Mapping
 - Props Handling
@@ -147,23 +147,23 @@ Responsible for displaying multiple countries dynamically.
 
 ---
 
-# 📄 SearchBar.jsx
+#  SearchBar.jsx
 
-# 🔍 Search Component
+#  Search Component
 
 Handles user input for searching countries.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ Search Input  
-✅ Dynamic Filtering  
-✅ Real-time Search  
+ Search Input  
+ Dynamic Filtering  
+ Real-time Search  
 
 ---
 
-# 🔄 Workflow
+#  Workflow
 
 ```text
 User Input
@@ -179,15 +179,15 @@ CountryCard Displays Results
 
 ---
 
-# 🎯 Learning Outcome
+#  Learning Outcome
 
 Understand component communication and dynamic UI updates in React.
 
 ---
 
-# ✅ Task Manager Project
+#  Task Manager Project
 
-# 📂 Project Overview
+#  Project Overview
 
 A task management application built using ReactJS.
 
@@ -195,17 +195,17 @@ This project demonstrates dynamic state updates and component interaction.
 
 ---
 
-# 📌 Features
+#  Features
 
-✅ Add Tasks  
-✅ Manage Tasks  
-✅ Dynamic Rendering  
-✅ Task Counting  
-✅ Component Communication  
+ Add Tasks  
+ Manage Tasks  
+ Dynamic Rendering  
+ Task Counting  
+ Component Communication  
 
 ---
 
-# 📂 Components
+#  Components
 
 ```bash
 AddTask.jsx
@@ -216,15 +216,15 @@ TaskList.jsx
 
 ---
 
-# 📄 AddTask.jsx
+#  AddTask.jsx
 
-# ➕ Task Input Component
+#  Task Input Component
 
 Handles task creation and user input.
 
 ---
 
-## 📌 Features
+##  Features
 
 - Input Handling
 - Form Submission
@@ -232,46 +232,46 @@ Handles task creation and user input.
 
 ---
 
-# 📄 ManageTask.jsx
+#  ManageTask.jsx
 
-# ⚙️ Task Management Component
+#  Task Management Component
 
 Controls task-related operations.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ Add Tasks  
-✅ Delete Tasks  
-✅ Update Task State  
+ Add Tasks  
+ Delete Tasks  
+ Update Task State  
 
 ---
 
-# 📄 TaskCount.jsx
+#  TaskCount.jsx
 
-# 🔢 Task Counter Component
+#  Task Counter Component
 
 Displays the total number of tasks dynamically.
 
 ---
 
-## 📌 Concepts Used
+##  Concepts Used
 
 - Props
 - Dynamic Updates
 
 ---
 
-# 📄 TaskList.jsx
+#  TaskList.jsx
 
-# 📋 Task Rendering Component
+#  Task Rendering Component
 
 Displays all tasks dynamically.
 
 ---
 
-## 📌 Concepts Used
+##  Concepts Used
 
 - Array Mapping
 - Conditional Rendering
@@ -279,7 +279,7 @@ Displays all tasks dynamically.
 
 ---
 
-# 🔄 Workflow
+#  Workflow
 
 ```text
 User Adds Task
@@ -293,15 +293,15 @@ Updated UI Display
 
 ---
 
-# 🎯 Learning Outcome
+#  Learning Outcome
 
 Learn state management and dynamic rendering using React.
 
 ---
 
-# 🛍️ Product Demo Project
+#  Product Demo Project
 
-# 📂 Project Overview
+#  Project Overview
 
 A React-based product showcase application.
 
@@ -309,16 +309,16 @@ This project demonstrates reusable components and product rendering.
 
 ---
 
-# 📌 Features
+#  Features
 
-✅ Product Listing  
-✅ Reusable Product Cards  
-✅ Dynamic Rendering  
-✅ Component-Based UI  
+ Product Listing  
+ Reusable Product Cards  
+ Dynamic Rendering  
+ Component-Based UI  
 
 ---
 
-# 📂 Components
+#  Components
 
 ```bash
 Product.jsx
@@ -327,32 +327,32 @@ Products.jsx
 
 ---
 
-# 📄 Product.jsx
+#  Product.jsx
 
-# 🛒 Product Card Component
+#  Product Card Component
 
 Displays individual product information.
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ Product Name  
-✅ Product Price  
-✅ Product Details  
-✅ Reusable UI  
+ Product Name  
+ Product Price  
+ Product Details  
+ Reusable UI  
 
 ---
 
-# 📄 Products.jsx
+#  Products.jsx
 
-# 📦 Product Collection Component
+#  Product Collection Component
 
 Renders multiple products dynamically.
 
 ---
 
-## 📌 Concepts Used
+##  Concepts Used
 
 - Props
 - Array Mapping
@@ -360,7 +360,7 @@ Renders multiple products dynamically.
 
 ---
 
-# 🔄 Workflow
+#  Workflow
 
 ```text
 Product Data
@@ -374,7 +374,7 @@ Render Product Cards
 
 ---
 
-# ⚛️ React Architecture Used
+#  React Architecture Used
 
 ```text
 Main App Component
@@ -388,15 +388,15 @@ Dynamic UI Rendering
 
 ---
 
-# 🧠 Core React Concepts Learned
+#  Core React Concepts Learned
 
-# ✅ Components
+#  Components
 
 Reusable UI building blocks.
 
 ---
 
-# ✅ JSX
+#  JSX
 
 JavaScript syntax extension used for building UI.
 
@@ -408,7 +408,7 @@ Example:
 
 ---
 
-# ✅ Props
+#  Props
 
 Used for passing data between components.
 
@@ -420,7 +420,7 @@ Example:
 
 ---
 
-# ✅ State
+#  State
 
 Used for handling dynamic data.
 
@@ -432,7 +432,7 @@ const [count, setCount] = useState(0)
 
 ---
 
-# ✅ Event Handling
+#  Event Handling
 
 Used for user interactions.
 
@@ -444,13 +444,13 @@ Example:
 
 ---
 
-# ✅ Dynamic Rendering
+#  Dynamic Rendering
 
 React automatically updates UI when state changes.
 
 ---
 
-# 🔄 React Rendering Lifecycle
+#  React Rendering Lifecycle
 
 ```text
 User Interaction
@@ -464,9 +464,9 @@ Updated UI
 
 ---
 
-# ▶️ How to Run the Projects
+#  How to Run the Projects
 
-# 📥 Install Dependencies
+#  Install Dependencies
 
 ```bash
 npm install
@@ -474,7 +474,7 @@ npm install
 
 ---
 
-# ▶️ Start Development Server
+#  Start Development Server
 
 ```bash
 npm run dev
@@ -482,21 +482,21 @@ npm run dev
 
 ---
 
-# 🌟 Key Learning Outcomes
+#  Key Learning Outcomes
 
 By completing WEEK-7, the following skills are developed:
 
-✅ ReactJS Fundamentals  
-✅ Component-Based Development  
-✅ State Management  
-✅ Props Handling  
-✅ Dynamic Rendering  
-✅ Event Handling  
-✅ Frontend Application Architecture  
+ ReactJS Fundamentals  
+ Component-Based Development  
+ State Management  
+ Props Handling  
+ Dynamic Rendering  
+ Event Handling  
+ Frontend Application Architecture  
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 These React projects can be improved by adding:
 
@@ -510,7 +510,7 @@ These React projects can be improved by adding:
 
 ---
 
-# 🏁 Final Summary
+#  Final Summary
 
 This folder represents the transition from:
 
