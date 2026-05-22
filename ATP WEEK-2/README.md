@@ -1,12 +1,12 @@
-# 📖 ATP WEEK-2
+#  ATP WEEK-2
 
-## ⚡ Intermediate JavaScript
+##  Intermediate JavaScript
 
 This folder focuses on intermediate and advanced JavaScript concepts such as APIs, asynchronous programming, modules, promises, and real-world mini projects.
 
 ---
 
-# 📂 Folder Structure
+#  Folder Structure
 
 ```bash
 ATP WEEK-2
@@ -22,15 +22,15 @@ ATP WEEK-2
 
 ---
 
-# 🌐 APIs Folder
+#  APIs Folder
 
-## 📄 api.js
+##  api.js
 
 This file demonstrates how JavaScript communicates with external servers using APIs.
 
 ---
 
-### 📌 Topics Covered
+###  Topics Covered
 
 - Fetch API
 - HTTP Requests
@@ -40,7 +40,7 @@ This file demonstrates how JavaScript communicates with external servers using A
 
 ---
 
-### 🔄 API Workflow
+###  API Workflow
 
 ```text
 Frontend
@@ -56,21 +56,21 @@ Display Data
 
 ---
 
-### 🎯 Learning Outcome
+###  Learning Outcome
 
 Understand how frontend applications interact with backend services and APIs.
 
 ---
 
-# ⚡ AsynchronousJS
+#  AsynchronousJS
 
-## 📄 Promise.js
+##  Promise.js
 
 This file introduces asynchronous programming using JavaScript Promises.
 
 ---
 
-### 📌 Topics Covered
+###  Topics Covered
 
 - Promise Creation
 - resolve()
@@ -81,7 +81,7 @@ This file introduces asynchronous programming using JavaScript Promises.
 
 ---
 
-### 🧠 Example Concept
+###  Example Concept
 
 ```js
 const promise = new Promise((resolve, reject) => {
@@ -91,13 +91,13 @@ const promise = new Promise((resolve, reject) => {
 
 ---
 
-### 🎯 Learning Outcome
+###  Learning Outcome
 
 Learn how JavaScript handles time-consuming operations without blocking execution.
 
 ---
 
-# 🧬 CopyOfData
+#  CopyOfData
 
 ## 📄 shallowDeep.js
 
@@ -105,7 +105,7 @@ This file explains shallow copy and deep copy concepts in JavaScript.
 
 ---
 
-### 📌 Topics Covered
+###  Topics Covered
 
 - Object References
 - Shallow Copy
@@ -115,7 +115,7 @@ This file explains shallow copy and deep copy concepts in JavaScript.
 
 ---
 
-### 🧠 Example
+###  Example
 
 ```js
 const obj1 = { name: "Afthab" }
@@ -125,21 +125,21 @@ const obj2 = { ...obj1 }
 
 ---
 
-### 🎯 Learning Outcome
+###  Learning Outcome
 
 Understand memory references and object copying behavior in JavaScript.
 
 ---
 
-# 📅 Date Folder
+#  Date Folder
 
-## 📄 date.js
+##  date.js
 
 This file demonstrates usage of the JavaScript Date object.
 
 ---
 
-### 📌 Topics Covered
+###  Topics Covered
 
 - Current Date & Time
 - Formatting Dates
@@ -148,7 +148,7 @@ This file demonstrates usage of the JavaScript Date object.
 
 ---
 
-### 🧠 Example
+###  Example
 
 ```js
 const today = new Date()
@@ -156,21 +156,21 @@ const today = new Date()
 
 ---
 
-### 🎯 Learning Outcome
+###  Learning Outcome
 
 Learn date and time manipulation in JavaScript.
 
 ---
 
-# 📦 Modules Folder
+#  Modules Folder
 
 This section demonstrates modular programming in JavaScript.
 
 ---
 
-## 📄 CartEngine.js
+##  CartEngine.js
 
-### 📌 Features
+###  Features
 
 - Add Products
 - Remove Products
@@ -179,9 +179,9 @@ This section demonstrates modular programming in JavaScript.
 
 ---
 
-## 📄 CourseCatalog.js
+##  CourseCatalog.js
 
-### 📌 Features
+###  Features
 
 - Store Course Data
 - Display Course Information
@@ -189,9 +189,9 @@ This section demonstrates modular programming in JavaScript.
 
 ---
 
-## 📄 PermissionEngine.js
+##  PermissionEngine.js
 
-### 📌 Features
+###  Features
 
 - Role Validation
 - Permission Checking
@@ -199,9 +199,9 @@ This section demonstrates modular programming in JavaScript.
 
 ---
 
-## 📄 UserProcessing.js
+##  UserProcessing.js
 
-### 📌 Features
+###  Features
 
 - User Validation
 - User Data Processing
@@ -209,19 +209,19 @@ This section demonstrates modular programming in JavaScript.
 
 ---
 
-### 🎯 Learning Outcome
+###  Learning Outcome
 
 Understand modular architecture and separation of concerns in JavaScript applications.
 
 ---
 
-# 🛒 E-Commerce Mini Project
+#  E-Commerce Mini Project
 
 A mini JavaScript-based e-commerce simulation project.
 
 ---
 
-## 📂 Files Included
+##  Files Included
 
 ```bash
 app1.js
@@ -233,17 +233,17 @@ product.js
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ Product Management  
-✅ Shopping Cart  
-✅ Discount Calculation  
-✅ Payment Handling  
-✅ Modular Code Structure  
+ Product Management  
+ Shopping Cart  
+ Discount Calculation  
+ Payment Handling  
+ Modular Code Structure  
 
 ---
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 - Import & Export
 - Business Logic Separation
@@ -252,7 +252,7 @@ product.js
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 ```text
 Products
@@ -266,19 +266,19 @@ Payment Processing
 
 ---
 
-### 🎯 Learning Outcome
+###  Learning Outcome
 
 Learn how real-world e-commerce systems are structured using modular JavaScript.
 
 ---
 
-# ✅ ToDo Mini Project
+#  ToDo Mini Project
 
 A simple task management application.
 
 ---
 
-## 📂 Files Included
+##  Files Included
 
 ```bash
 app.js
@@ -288,16 +288,16 @@ validate.js
 
 ---
 
-## 📌 Features
+##  Features
 
-✅ Add Tasks  
-✅ Validate Inputs  
-✅ Manage Task List  
-✅ Dynamic Updates  
+ Add Tasks  
+ Validate Inputs  
+ Manage Task List  
+ Dynamic Updates  
 
 ---
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 - Modular JavaScript
 - Input Validation
@@ -306,7 +306,7 @@ validate.js
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 ```text
 User Input
@@ -320,15 +320,15 @@ Display Tasks
 
 ---
 
-### 🎯 Learning Outcome
+###  Learning Outcome
 
 Understand how small-scale applications are built using modular JavaScript concepts.
 
 ---
 
-# 🧠 Core Concepts Learned in WEEK-2
+#  Core Concepts Learned in WEEK-2
 
-## ✅ JavaScript Concepts
+##  JavaScript Concepts
 
 - APIs
 - Fetch API
@@ -340,7 +340,7 @@ Understand how small-scale applications are built using modular JavaScript conce
 
 ---
 
-## ✅ Real-world Skills
+##  Real-world Skills
 
 - API Communication
 - Data Handling
@@ -350,14 +350,14 @@ Understand how small-scale applications are built using modular JavaScript conce
 
 ---
 
-# 🚀 Overall Learning Outcome
+#  Overall Learning Outcome
 
 By completing ATP WEEK-2, the following skills are developed:
 
-✅ Intermediate JavaScript Understanding  
-✅ Real-world API Handling  
-✅ Asynchronous Programming Skills  
-✅ Modular Application Development  
-✅ Mini Project Architecture Understanding  
+ Intermediate JavaScript Understanding  
+ Real-world API Handling  
+ Asynchronous Programming Skills  
+ Modular Application Development  
+ Mini Project Architecture Understanding  
 
 ---
