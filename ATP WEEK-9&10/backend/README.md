@@ -30,34 +30,34 @@ Backend server for the MERN Stack Blogging Platform with 🔐 authentication, �
 
 ---
 
-# 🌟 Features
+#  Features
 
-- ✅ REST API Architecture
-- ✅ JWT Authentication
-- ✅ Role-Based Authorization
-- ✅ MongoDB Atlas Integration
-- ✅ Cloudinary Image Upload
-- ✅ Multer File Upload
-- ✅ Protected Routes
-- ✅ Admin APIs
-- ✅ Article Management APIs
-
----
-
-# 🛠️ Tech Stack
-
-- 🟢 Node.js
-- 🚂 Express.js
-- 🍃 MongoDB Atlas
-- 📦 Mongoose
-- 🔐 JWT Authentication
-- 🔒 bcryptjs
-- 📁 Multer
-- ☁️ Cloudinary
+-  REST API Architecture
+-  JWT Authentication
+-  Role-Based Authorization
+-  MongoDB Atlas Integration
+-  Cloudinary Image Upload
+-  Multer File Upload
+-  Protected Routes
+-  Admin APIs
+-  Article Management APIs
 
 ---
 
-# 📁 Folder Structure
+#  Tech Stack
+
+-  Node.js
+-  Express.js
+-  MongoDB Atlas
+-  Mongoose
+-  JWT Authentication
+-  bcryptjs
+-  Multer
+-  Cloudinary
+
+---
+
+#  Folder Structure
 
 ```bash
 backend/
@@ -74,9 +74,9 @@ backend/
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
-## 📦 Install Dependencies
+##  Install Dependencies
 
 ```bash
 npm install
@@ -84,7 +84,7 @@ npm install
 
 ---
 
-# 🔑 Environment Variables
+#  Environment Variables
 
 Create a `.env` file inside backend folder.
 
@@ -99,13 +99,13 @@ API_SECRET=your_cloudinary_api_secret
 
 ---
 
-# ▶️ Run Backend Server
+#  Run Backend Server
 
 ```bash
 npm start
 ```
 
-✅ Backend runs on:
+ Backend runs on:
 
 ```bash
 http://localhost:4000
@@ -113,47 +113,47 @@ http://localhost:4000
 
 ---
 
-# 🔐 Authentication Features
+#  Authentication Features
 
-- ✅ User Registration
-- ✅ User Login
-- ✅ Admin Login
-- ✅ Password Hashing
-- ✅ JWT Token Authentication
-- ✅ Role-Based Access Control
+-  User Registration
+-  User Login
+-  Admin Login
+-  Password Hashing
+-  JWT Token Authentication
+-  Role-Based Access Control
 
 ---
 
-# 👥 Roles Supported
+#  Roles Supported
 
-## 👤 USER
+##  USER
 - Read Articles
 - Comment on Articles
 
-## ✍️ AUTHOR
+##  AUTHOR
 - Create Articles
 - Edit Articles
 - Delete Articles
 
-## 👑 ADMIN
+##  ADMIN
 - Manage Users
 - Block / Unblock Users
 - View Dashboard Statistics
 
 ---
 
-# ☁️ Cloudinary Uploads
+#  Cloudinary Uploads
 
-- ✅ Profile Picture Upload
-- ✅ Article Image Upload
-- ✅ Cloud Image Storage
-- ✅ Multer Integration
+-  Profile Picture Upload
+-  Article Image Upload
+-  Cloud Image Storage
+-  Multer Integration
 
 ---
 
-# 🔗 API Endpoints
+#  API Endpoints
 
-## 👤 User APIs
+##  User APIs
 
 ```bash
 POST   /user-api/users
@@ -164,7 +164,7 @@ GET    /user-api/article/:id
 
 ---
 
-## ✍️ Author APIs
+##  Author APIs
 
 ```bash
 POST   /author-api/article
@@ -174,7 +174,7 @@ DELETE /author-api/article/:id
 
 ---
 
-## 👑 Admin APIs
+##  Admin APIs
 
 ```bash
 POST   /admin-api/login
@@ -186,33 +186,33 @@ PUT    /admin-api/unblock/:userId
 
 ---
 
-# 🔒 Security Features
+#  Security Features
 
-- ✅ JWT Authentication
-- ✅ Password Encryption
-- ✅ Protected Routes
-- ✅ Role Authorization
-- ✅ Environment Variables Protection
+-  JWT Authentication
+-  Password Encryption
+-  Protected Routes
+-  Role Authorization
+-  Environment Variables Protection
 
 ---
 
-# ☁️ Deployment
+#  Deployment
 
-## 🚀 Deploy Backend on Render
+##  Deploy Backend on Render
 
-### 📂 Root Directory
+###  Root Directory
 
 ```bash
 backend
 ```
 
-### 📦 Build Command
+###  Build Command
 
 ```bash
 npm install
 ```
 
-### ▶️ Start Command
+###  Start Command
 
 ```bash
 npm start
@@ -220,29 +220,29 @@ npm start
 
 ---
 
-# 🍃 Database
+#  Database
 
-- ✅ MongoDB Atlas
-- ✅ Mongoose ODM
-- ✅ Cloud Database Integration
-
----
-
-# 🔥 Future Improvements
-
-- 🔔 Notifications
-- 📊 Advanced Analytics
-- 🔍 Search API
-- ❤️ Like System
-- 💬 Real-time Chat
-- 🤖 AI Features
+-  MongoDB Atlas
+-  Mongoose ODM
+-  Cloud Database Integration
 
 ---
 
-# 👨‍💻 Developed By
+#  Future Improvements
 
-## ❤️ Mohammad Afthab
+-  Notifications
+-  Advanced Analytics
+-  Search API
+-  Like System
+-  Real-time Chat
+-  AI Features
 
-- 🎓 CSE Student
-- 💻 MERN Stack Developer
-- 🚀 Passionate About Full Stack Development
+---
+
+#  Developed By
+
+##  Mohammad Afthab
+
+-  CSE Student
+-  MERN Stack Developer
+-  Passionate About Full Stack Development
